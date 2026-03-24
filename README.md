@@ -22,4 +22,4 @@ This project implements a Memory Card Game using HTML, CSS, and JavaScript. The 
 3. Use the restart button to reset the game
 
 ## 📸 Output
-![Output Image](./assests/Screenshot%20(144).png "Output Image")
+![Output Image](./assets/Screenshot%20(144).png "Output Image")
